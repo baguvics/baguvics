@@ -11,7 +11,7 @@ I'm a Software Engineer based in Tomsk, Siberia.
 - 👯 I am looking for opportunities to collaborate on open source projects and protocols.
 - 💬 In search of frontend developer for pet project about the board game
 - ⌨ Favorite editor: PyCharm
-- 🖥 Favorite language: Django
+- 🖥 Favorite language: Python
 - 🐧 Current machine: Macbook Air M1
 
 <img src="https://komarev.com/ghpvc/?username=baguvics&color=45707a&style=flat-square" alt="GitHub page views">
