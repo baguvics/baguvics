@@ -6,12 +6,13 @@ I'm a Software Engineer based in Tomsk, Siberia.
 
 
 **About me**
-- 🔭 Bachelor's degree in Intelligent Automation and Control Systems
-- 🌱 I am currently studying web development and telegram API.
-- 👯 I am looking for opportunities to collaborate on open source projects and protocols.
-- 💬 In search of frontend developer for pet project about the board game
+- 🔭 Bachelor's degree in Intelligent Automation and Control Systems.
+- 👨🏻‍💻 Data Analyst at the AI Driller Company.
+- 🌱 I am currently studying DS and ML.
+- 👯 Looking for opportunities to collaborate on open source projects and protocols.
+- 💬 In search of ui developer for pet a project about a board game.
 - ⌨ Favorite editor: PyCharm
-- 🖥 Favorite language: Python
+- 🖥 Favorite language: Python3
 - 🐧 Current machine: Macbook Air M1
 
 <img src="https://komarev.com/ghpvc/?username=baguvics&color=45707a&style=flat-square" alt="GitHub page views">
